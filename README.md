@@ -1,4 +1,4 @@
-**Advanced Lane Finding Project**
+***Advanced Lane Finding Project***
 
 * The goal in this project is to write a software pipeline to identify the lane boundaries in a video
 * A block diagram showing the flow of the project is displayed below
